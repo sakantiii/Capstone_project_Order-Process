@@ -1,4 +1,4 @@
-# **Capstone project Order-Process (Oke Garden)**
+# **Capstone project Order-Process **
 
 
 # Table Of Contents
